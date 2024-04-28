@@ -87,7 +87,7 @@ hr {
 	padding: 0;
 }
 
-/* .x2 {
+.x2 {
 	background-color: #eee4da;
 	color: rgba(0, 0, 0, 0);
 	background: var(--background-image-url-02);
@@ -176,9 +176,9 @@ hr {
     color: rgba(0, 0, 0, 0);
     background: var(--background-image-url-8192);
     background-size: 100% 100%;
-} */
+}
 
-.x2 {
+/* .x2 {
     background-color: #eee4da;
     color: #727371;
 }
@@ -241,7 +241,7 @@ hr {
 .x8192 {
     background-color: #ff2020;
     color: #ffffff;
-}
+} */
 
 @keyframes slide-from-right{
 	0% {
